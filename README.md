@@ -13,7 +13,6 @@ To use the template, set it up in your couscous.yml configuration file:
 template:
     url: https://github.com/BilelJegham/DraculaThemeCousous.git
 ```
-But since it's the default template for Couscous, you actually don't need to do anything..
 
 ## Team
 
