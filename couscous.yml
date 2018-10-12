@@ -2,5 +2,3 @@ template:
     directory: .
 
 title: Couscous basic template
-
-baseUrl: ./
