@@ -11,7 +11,7 @@ All instructions can be found at [Couscous](http://couscous.io/docs/getting-star
 To use the template, set it up in your couscous.yml configuration file:
 ```
 template:
-    url: https://github.com/BilelJegham/DraculaThemeCousous.git
+    url: https://github.com/dracula/DraculaThemeCousous.git
 ```
 
 ## Team
