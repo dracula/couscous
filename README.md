@@ -1,22 +1,16 @@
-# Dracula for [Couscous](http://couscous.io/).
+# Dracula for [Couscous](http://couscous.io/)
 
 > A dark theme for [Couscous](http://couscous.io/).
 
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [Couscous](http://couscous.io/docs/getting-started.html).
-
-To use the template, set it up in your couscous.yml configuration file:
-```
-template:
-    url: https://github.com/dracula/couscous.git
-```
+All instructions can be found at [draculatheme.com/couscous](https://draculatheme.com/couscous).
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/couscous/graphs/contributors).
 
 |[![Bilel Jegham](https://avatars0.githubusercontent.com/u/20130405?v=3&s=70)](https://github.com/BilelJegham) |
 |---|
